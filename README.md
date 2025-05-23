@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GIF of Gandalf from Lord of the Rings saying a significant quote about the usage of time.]()
+![GIF of Gandalf from Lord of the Rings saying a significant quote about the usage of time.](gandalf_time.gif)
 ## :wave: Greetings all!
