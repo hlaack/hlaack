@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 > ### :🧙‍♂️: I'm a huge science-fiction/fantasy fan.
 
 ## :📧:
-### You can email me here: [Harry's Email](mailto: harry@spolem.net)
+### You can email me here:
+[Harry's Email](mailto: harry@spolem.net)
