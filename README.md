@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 ## Watch me improve my stats!
 [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlaack&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
