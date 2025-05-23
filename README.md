@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **hlaack/hlaack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GIF of Gandalf from Lord of the Rings saying a significant quote about the usage of time.]()
 ## :wave: Greetings all!
