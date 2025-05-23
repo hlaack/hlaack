@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 > ### 🧙‍♂️ I'm a huge science-fiction/fantasy fan.
 ---
 
-## 📧
+### 📧
 ### You can always contact me here: <harry@spolem.net> :smile:
 
 ### Watch me improve my stats!
