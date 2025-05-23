@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="styling_prof.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
 ![GIF of Gandalf from Lord of the Rings saying a significant quote about the usage of time.](gandalf_time.gif)
 <h1>:wave: Greetings all!</h1>
 <h2>*he/him*</h2>
