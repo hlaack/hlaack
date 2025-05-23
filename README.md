@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ![GIF of Gandalf from Lord of the Rings saying a significant quote about the usage of time.](gandalf_time.gif)
-# H1 :wave: Greetings all!
+# :wave: Greetings all!
 ---
-# H2 Some factoids about me:
-> ## :microphone: I'm a represented voice over artist! I audition nearly every day.
-> ## :dragon_face: I love telling stories through Tabletop Role-playing Games.
-> ## :zap: I'm currently challenging myself to learn VIM motions (through a VSCode NeoVIM fork extension)!
-> ## :hurtrealbad: One of my long term coding goals is to create (and understand) a raycast game engine.
+## Some factoids about me:
+> ### :microphone: I'm a represented voice over artist! I audition nearly every day.
+> ### :dragon_face: I love telling stories through Tabletop Role-playing Games.
+> ### :zap: I'm currently challenging myself to learn VIM motions (through a VSCode NeoVIM fork extension)!
+> ### :hurtrealbad: One of my long term coding goals is to create (and understand) a raycast game engine.
