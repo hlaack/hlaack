@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![GIF of Gandalf from Lord of the Rings saying a significant quote about the usage of time.](gandalf_time.gif)
 # :wave: Greetings all!
 ## *he/him*
----
+
 ## Some factoids about me:
 
 > ### :microphone: I'm a represented voice over artist! I audition nearly every day.
