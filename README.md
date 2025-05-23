@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ### You can always contact me here: <harry@spolem.net> :smile:
 
 ### Watch me improve my stats!
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlaack)](https://github.com/anuraghazra/github-readme-stats)
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlaack&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
