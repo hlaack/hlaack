@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 > ### :zap: I'm currently challenging myself to learn VIM motions (through a VSCode NeoVIM fork extension)!
 > ### :hurtrealbad: One of my long term coding goals is to create (and understand) a raycast game engine.
 > ### 🧙‍♂️ I'm a huge science-fiction/fantasy fan.
+---
 
 ## 📧
 ### You can always contact me here: <harry@spolem.net> :smile:
