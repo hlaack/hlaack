@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 > ### 🧙‍♂️ I'm a huge science-fiction/fantasy fan.
 ---
 
-### 📧
-### You can always contact me here: <harry@spolem.net> :smile:
+
+## 📧 You can always contact me here: [Harry's eMail](harry@spolem.net) :smile:
+---
 
 ### Watch me improve my stats!
 [![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlaack&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
