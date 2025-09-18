@@ -4,7 +4,6 @@
 
 ## Some factoids about me:
 
-> ### :microphone: I'm a represented voice over artist! I audition nearly every day.
 > ### :dragon_face: I love telling stories through Tabletop Role-playing Games.
 > ### :zap: I'm currently challenging myself to learn VIM motions (through a VSCode NeoVIM fork extension)!
 > ### :hurtrealbad: One of my long term coding goals is to create (and understand) a raycast game engine.
