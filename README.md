@@ -5,8 +5,8 @@
 ## Some factoids about me:
 
 > ### :dragon_face: I love telling stories through Tabletop Role-playing Games.
-> ### :zap: I'm currently challenging myself to learn VIM motions (through a VSCode NeoVIM fork extension)!
-> ### :hurtrealbad: One of my long term coding goals is to create (and understand) a raycast game engine.
+> ### :zap: I'm huge into competitive Magic: the Gathering, specifically cEDH. (Ral, Monsoon Mage FTW!)
+> ### :hurtrealbad: One of my long term coding goals is to cement a foundation of knowledge in Graphics Programming!
 > ### 🧙‍♂️ I'm a huge science-fiction/fantasy fan.
 ---
 
