@@ -9,6 +9,3 @@
 > ### :hurtrealbad: One of my long term coding goals is to cement a foundation of knowledge in Graphics Programming!
 > ### 🧙‍♂️ I'm a huge science-fiction/fantasy fan.
 ---
-
-## Watch me improve my stats!
-[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlaack&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
